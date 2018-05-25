@@ -4,6 +4,9 @@ command :
     git init : khoi tao 1 repository moi
     git clone : keo 1 repository o tren remote keo ve local
     git status : kiem tra thong tin hien thoi cua git
+    git add
+    git commit
+    git log
 
 => thay doi : vat hoa qua
 => staging area : de hoa qua len xe
@@ -20,3 +23,5 @@ B2: add ca cac file muon commit vao staging area
 
 B3: Commit : git commit -m "ten cua commit (message giai thich cho commit)"
 
+
+Note: da add them file vao repo
