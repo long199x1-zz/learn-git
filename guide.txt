@@ -1,0 +1,22 @@
+Repository : 1 cai noi de chua code (local, server(github))
+
+command :
+    git init : khoi tao 1 repository moi
+    git clone : keo 1 repository o tren remote keo ve local
+    git status : kiem tra thong tin hien thoi cua git
+
+=> thay doi : vat hoa qua
+=> staging area : de hoa qua len xe
+=> da commit : cho hoa qua vao kho
+
+=> De co the day len, luu lai code chung ta can phai commit truoc
+=> De commit thi cac ban can add cac file co thay doi vao staging area
+
+
+
+B1: khoi tao git cho repository o local
+B2: add ca cac file muon commit vao staging area
+    git add ten_file
+
+B3: Commit : git commit -m "ten cua commit (message giai thich cho commit)"
+
